@@ -13,4 +13,5 @@
     <a href="https://trello.com/b/Z4cFe3ND/scrum">Sprint Backlog</a><br>
     <a href="https://drive.google.com/file/d/1P6NHfNssjHkYqBW5_IVGMLNnqiuR95rf/view?usp=sharing">Mind Map</a><br>
     <a href="https://docs.google.com/document/d/1AWwkdPqgxheuuylrLXxWNy7V__Z8BZhI9awAMqMlt5E/edit?usp=sharing">Plano de Projeto</a><br>
+    <a href="https://docs.google.com/document/d/1hm9LomnpFt4iBPqNSU7iFU4RGOwtBvQAQ6cKvQjq3RE/edit?usp=sharing">Plano de Testes</a><br>
     <a href="https://docs.google.com/spreadsheets/d/1abxg8t1LUg11onUhras9uBMXH8F4xQ3Be7bKZVxLAhY/edit?usp=sharing">Feedback das Sprints</a><br>
